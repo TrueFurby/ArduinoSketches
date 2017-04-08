@@ -1,7 +1,5 @@
 # ArduinoSketches
 Repository with my Arduino sketches I played around with.
 
-* [SerialTerminal](./SerialTerminal)
-
-  > Simple serial terminal, displaying serial output on display.
+* [SerialTerminal](./SerialTerminal) - simple serial terminal, printing serial output on display.
 
